@@ -13,7 +13,7 @@ https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632
 * Select a layer and then select the plugin from the Plugins menu or simply hit **&#8984; + &#8679; + 8**. 
    A popup window lets you know if the width and height of the layer are a multiple of 8. Additionally, the window also gives you the nearest multiple for current current height and width.
    
-* If nothing is selected, running the plugin (**&#8984; + &#8679; + 8**) generates a dialog window with an input box. Enter a value to see if its divisble by 8 and the nearest multiples.
+* If nothing is selected, running the plugin (**&#8984; + &#8679; + 8**) generates a dialog window with an input box. Enter a value to see if its divisble by 8. The output also shows the nearest multiples.
 
 ### DEMO
 [![WATCH THE DEMO VIDEO](https://user-images.githubusercontent.com/4453893/32559593-88f07232-c475-11e7-96c9-2121a5cded44.png)](https://vimeo.com/241890314)
