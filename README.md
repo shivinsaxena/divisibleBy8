@@ -3,7 +3,7 @@
 ### DESCRIPTION:
 Sketch Plugin to check if a given layer's width and height are divisible by 8 or if an input value is divisible by 8. Helps to ensure that components conform to the 8-point grid approach.
 
-### WHY?: 
+### WHY? 
 Because Math can be hard and shouldn't get in the way of designers.
 
 ### A NICE INTRODUCTION TO THE 8-POINT GRID: 
