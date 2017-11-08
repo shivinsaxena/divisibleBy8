@@ -16,5 +16,5 @@ https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632
 2. If nothing is selected, running the plugin generates a dialog window with an input box. Enter a value to see if its divisble by 8 and the nearest multiples.
 
 ### DEMO
-![WATCH THE DEMO VIDEO](https://user-images.githubusercontent.com/4453893/32559593-88f07232-c475-11e7-96c9-2121a5cded44.png)(https://vimeo.com/241890314)
+[![WATCH THE DEMO VIDEO](https://user-images.githubusercontent.com/4453893/32559593-88f07232-c475-11e7-96c9-2121a5cded44.png)](https://vimeo.com/241890314)
 
