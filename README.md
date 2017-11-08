@@ -1,4 +1,4 @@
-# Divisble by 8?
+# Divisible by 8?
 MOTTO: 
 Because Math can be hard and shouldn't get in the way of designers.
 
